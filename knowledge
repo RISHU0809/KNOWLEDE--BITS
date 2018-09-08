@@ -3,10 +3,18 @@
 <head> <h1>knowlede</h1></head>
 <body>
 <p>gjdkjkjkdjlkdlkjkkg</p>
-<table>
-<tr>qwwwerrr</tr>
-<tr>qwwwerrr</tr>
-<tr>qwwwerrr</tr>
-<tr>qwwwerrr</tr>
-</table>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
+
+<h2>An Ordered HTML List</h2>
+
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol> 
 </body>
